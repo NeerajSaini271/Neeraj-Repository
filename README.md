@@ -1,4 +1,4 @@
 # Neeraj-Repository
 This is my first Git Repository
 <br>
-Author - Neeraj Saini
+Author - Neeraj Saini (Data Science)
